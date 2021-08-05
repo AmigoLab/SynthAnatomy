@@ -1,9 +1,11 @@
 # Release Date - September 2021
 
 # SynthAnatomy
-VQ-VAE + Transformer based synthesis of 3D anatomical imaging data 
+VQ-VAE + Transformer based synthesis of 3D anatomical imaging data.
 
-Work done through the collaboration between NVIDIA and KCL using [Cambridge-1](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/)
+Work done through the collaboration between NVIDIA and KCL using [Cambridge-1](https://www.nvidia.com/en-us/industries/healthcare-life-sciences/cambridge-1/).
+
+Preliminary work can be visualized [here](http://amigos.ai/thisbraindoesnotexist/).
 
 # Funding
 - Jointly with UCL - Wellcome Flagship Programme (WT213038/Z/18/Z)
