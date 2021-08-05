@@ -1,4 +1,4 @@
-# Release Date - August 2021
+# Release Date - September 2021
 
 # SynthAnatomy
 VQ-VAE + Transformer based synthesis of 3D anatomical imaging data 
