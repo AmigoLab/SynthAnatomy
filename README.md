@@ -7,6 +7,7 @@ Preliminary work can be visualized [here](http://amigos.ai/thisbraindoesnotexist
 # Pretrained models
 
 To use the pretrained models you need to do the following:
+
 0) Create a docker container based on the Dockerfile and requirements file found in the dcoker folder
 1) Create a folder similar with the following structure where you replace 'experiment_name' with the name of your experiment and you chose either baseline_vqvae or performer depending on which weights you want to use:
 ```
