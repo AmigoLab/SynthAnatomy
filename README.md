@@ -149,3 +149,18 @@ Work done through the collaboration between NVIDIA and KCL using [Cambridge-1](h
 - Jointly with UCL - Wellcome Flagship Programme (WT213038/Z/18/Z)
 - Wellcome/EPSRC Centre for Medical Engineering (WT203148/Z/16/Z)
 - EPSRC Research Council DTP(EP/R513064/1)
+
+# Reference
+
+If you use our work please cite:
+
+```
+@inproceedings{tudosiu2022morphology,
+  title={Morphology-Preserving Autoregressive 3D Generative Modelling of the Brain},
+  author={Tudosiu, Petru-Daniel and Pinaya, Walter Hugo Lopez and Graham, Mark S and Borges, Pedro and Fernandez, Virginia and Yang, Dai and Appleyard, Jeremy and Novati, Guido and Mehra, Disha and Vella, Mike and others},
+  booktitle={International Workshop on Simulation and Synthesis in Medical Imaging},
+  pages={66--78},
+  year={2022},
+  organization={Springer}
+}
+```
